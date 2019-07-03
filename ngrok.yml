@@ -4,4 +4,3 @@ tunnels:
   ssh:
     proto: tcp
     addr: 22
-    remote_addr: <tcp_address> 
